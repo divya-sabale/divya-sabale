@@ -25,7 +25,7 @@ I'm a **Python Full Stack Developer** and **Data Analyst** with a Bachelor of Vo
 - 🌾 Built Farmer Support System: crop suggestions, weather forecasts and market prices
 - 📊 Interested in Data Analysis and Data Science
 - 💬 Ask me about Python, Django, React.js, MySQL and Data Analytics
-- 📫 How to reach me: YOUR_EMAIL
+- 📫 How to reach me: diuusabale2005@gmail.com
 - 🎤 Fun fact: I love singing
 
 ---
@@ -70,4 +70,8 @@ A web application that gives farmers crop suggestions, weather forecasts and mar
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0
+  <a href="https://www.linkedin.com/in/divya-sabale-12657a370"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" />
